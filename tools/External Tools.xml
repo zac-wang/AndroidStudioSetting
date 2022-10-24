@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="打开应用" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="/bin/bash" />
+      <option name="PARAMETERS" value="my_open_app.command" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Code/code_gome/gm_sharedbuild_module/build/" />
+    </exec>
+  </tool>
+</toolSet>

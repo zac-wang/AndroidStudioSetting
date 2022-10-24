@@ -1,0 +1,11 @@
+<application>
+  <component name="UpdatesConfigurable">
+    <option name="LAST_BUILD_CHECKED" value="AI-213.7172.25.2113.9014738" />
+    <option name="LAST_TIME_CHECKED" value="1666059610549" />
+    <pluginHosts>
+      <item value="https://zac-wang.github.io/jetbrains/updatePlugins.xml" />
+    </pluginHosts>
+    <option name="THIRD_PARTY_PLUGINS_ALLOWED" value="true" />
+    <option name="UPDATE_CHANNEL_TYPE" value="release" />
+  </component>
+</application>
